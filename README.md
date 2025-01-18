@@ -1,1 +1,1 @@
-# squidGames
+## S(code) Games
